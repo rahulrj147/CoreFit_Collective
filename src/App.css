@@ -3,7 +3,9 @@
   display: flex;
   flex-wrap: wrap;
 }
-
+button,a{
+  cursor:none;
+}
 body {
   overflow-x: hidden;
 }
