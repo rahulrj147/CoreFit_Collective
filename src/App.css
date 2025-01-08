@@ -4,7 +4,7 @@
   flex-wrap: wrap;
 }
 button,a{
-  cursor:none;
+  cursor: none;
 }
 body {
   overflow-x: hidden;
